@@ -34,6 +34,8 @@ namespace WebAPIPattern.Controllers
         // DELETE api/values/5
         public void Delete(int id)
         {
+        
+        "test"
         }
     }
 }
